@@ -1,2 +1,2 @@
-its my first rust api website 
-compliting by aadi foundation's training
+First rest api website 
+made by me with the help of aadi foundation's training internship. 
